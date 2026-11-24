@@ -2,7 +2,11 @@ specVersion: "1"
 id: lax-266678
 leanVersion: "v4.33.0"
 mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
-title: "Order-invariant cluster first-order logic is included in first-order logic on bounded-degree graphs"
+title: "Order-invariant cluster first-order logic is included in first-order
+  logic on bounded-degree graphs"
 authors:
   - name: Fatemeh Ghasemi
 bibEntries: []
+issue:
+  repositoryId: 1320232165
+  number: 236
